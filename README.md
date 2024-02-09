@@ -1,7 +1,5 @@
 # Stealer Info
 ## Lists of Stealers
-
-## General Lists
 - ### Stealers That Are Decent
   - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) 
 
