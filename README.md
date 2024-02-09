@@ -1,4 +1,4 @@
-#.Stealer Info
+# Stealer Info
 ## Lists of Stealers
 
 ## General Lists
