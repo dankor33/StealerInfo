@@ -2,7 +2,7 @@
 ## Lists of Stealers
 
 ## General Lists
-- ### Stealers that are decent
+- ### Stealers That Are Decent
   - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) 
 
 - ### Stealers That Are DualHooked 
