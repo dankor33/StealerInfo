@@ -2,6 +2,8 @@
 ## Lists of Stealers
 - ### Stealers That Are Decent
   - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) 
+- ### Stealers That Are Skidded
+  - [Stealerium](https://github.com/Ayhuuu/Creal-Stealer/) - Skidded
 
 - ### Stealers That Are DualHooked 
   - [doenerium](https://github.com/doenerium69/doenerium) - DualHooked
