@@ -6,4 +6,4 @@
 - ### Stealers That Are DualHooked 
   - [doenerium](https://github.com/doenerium69/doenerium) - DualHooked
 - ### Stealers That Are Ratted 
-  - [Epsilon-Stealer](https://github.com/IWcommunityFR/Epsilon-Stealer) - DualHooked
+  - [Epsilon-Stealer](https://github.com/IWcommunityFR/Epsilon-Stealer) - Ratted
