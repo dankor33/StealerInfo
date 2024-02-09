@@ -7,3 +7,5 @@
   - [doenerium](https://github.com/doenerium69/doenerium) - DualHooked
 - ### Stealers That Are Ratted 
   - [Epsilon-Stealer](https://github.com/IWcommunityFR/Epsilon-Stealer) - Ratted
+  - [waltuhium](https://github.com/waltuhium23/waltuhium) - Ratted
+
