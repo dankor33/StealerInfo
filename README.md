@@ -3,7 +3,7 @@
 - ### Stealers That Are Decent
   - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) 
 - ### Stealers That Are Skidded
-  - [Stealerium](https://github.com/Ayhuuu/Creal-Stealer/) - Skidded
+  - [Creal Stealer](https://github.com/Ayhuuu/Creal-Stealer/) - Skidded minor modification of wasp
 
 - ### Stealers That Are DualHooked 
   - [doenerium](https://github.com/doenerium69/doenerium) - DualHooked
