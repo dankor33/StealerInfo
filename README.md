@@ -2,9 +2,9 @@
 ## Lists of Stealers
 If you have any more or something is not true make a issue or a pull request
 - ### Stealers That Are Decent
-  - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) 
+  - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) - modification of wasp.
 - ### Stealers That Are Skidded
-  - [Creal Stealer](https://github.com/Ayhuuu/Creal-Stealer/) - Skidded minor modification of wasp
+  - [Creal Stealer](https://github.com/Ayhuuu/Creal-Stealer/) - Skidded minor modification of wasp.
 
 - ### Stealers That Are DualHooked 
   - [doenerium](https://github.com/doenerium69/doenerium) - DualHooked
