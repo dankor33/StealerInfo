@@ -14,6 +14,7 @@ If you have any more or something is not true make a issue or a pull request
 
 - ### Stealers That Are Ratted 
   - [Epsilon-Stealer](https://github.com/IWcommunityFR/Epsilon-Stealer) - Ratted
-  - [waltuhium](https://github.com/waltuhium23/waltuhium) - Ratted
+  - [waltuhium](https://github.com/waltuhium23/waltuhium) - Ratted blx-stealer
+  - [blx-stealer](https://github.com/blxstealer/BLX-Stealer) - Ratted 
   - [Stealerium](https://github.com/Rmejia39/Stealerium) - Ratted
 
