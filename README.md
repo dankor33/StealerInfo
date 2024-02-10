@@ -1,5 +1,6 @@
 # Stealer Info
 ## Lists of Stealers
+If you have any make a issue or a pull request
 - ### Stealers That Are Decent
   - [Trap-Stealer](https://github.com/TheCuteOwl/Trap-Stealer) 
 - ### Stealers That Are Skidded
